@@ -1,11 +1,11 @@
 
 
-def square_array(array)
+def square_array(numbers)
 new_numbers =[]
 index=0
 
-while index < array.length do
-  new_numbers.push (array[index]**2)
+while index < numbers.length do
+  new_numbers.push (numbers[index]**2)
   index += 1
 
 end
