@@ -7,6 +7,6 @@ index=0
 while index < array.length do
   new_numbers.push (array[index]**2)
   index += 1
-  
+
 end
 end
